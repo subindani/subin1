@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.subin.build.maven.java.AppTest" time="0.01" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.subin.build.maven.java.AppTest" time="0.016" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/ubuntu/java/jdk1.8.0_102/jre/lib/amd64"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.subin.build.maven.java.AppTest" name="testApp" time="0"/>
+  <testcase classname="com.subin.build.maven.java.AppTest" name="testApp" time="0.002"/>
 </testsuite>
